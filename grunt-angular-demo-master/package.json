@@ -1,0 +1,34 @@
+{
+	"name": "login",
+	"version": "1.0.0",
+	"description": "",
+	"author": "",
+	"license": "ISC",
+	"scripts": {
+		"clean": "grunt clean",
+		"test": "grunt test",
+		"build": "grunt build"
+	},
+	"devDependencies": {
+		"angular": "^1.8.2",
+		"grunt-angular-templates": "^1.2.0",
+		"grunt-cli": "^1.3.2",
+		"grunt-contrib-clean": "^0.6.0",
+		"grunt-contrib-cssmin": "^3.0.0",
+		"grunt-contrib-jshint": "^3.0.0",
+		"grunt-contrib-uglify": "^5.0.0",
+		"grunt-karma": "^4.0.0",
+		"grunt-ng-annotate": "^1.0.1",
+		"karma": "^6.0.4",
+		"karma-coverage": "^2.0.3",
+		"karma-jasmine": "^0.3.5",
+		"karma-junit-reporter": "^0.2.2",
+		"karma-mocha-reporter": "^1.0.2",
+		"karma-phantomjs-launcher": "^1.0.4",
+		"load-grunt-tasks": "^3.2.0"
+	},
+	"dependencies": {
+		"bower": "^1.8.12",
+		"grunt": "^1.3.0"
+	}
+}

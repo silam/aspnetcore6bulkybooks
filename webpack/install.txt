@@ -1,0 +1,10 @@
+npm init -y
+yarn install -D webpack webpack-cli webpack-dev-server
+yarn add react react-dom
+
+
+yarn watch
+
+
+PS C:\DEVELOPMENT\webpack> yarn add -D @babel/core @babel/preset-env @babel/preset-react babel-loader
+css-loader style-loader

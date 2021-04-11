@@ -1,0 +1,11 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div ng-controller="homeCtrl as vm">
+    <h1>Login</h1>
+    <div ng-include="'templates/login.cshtml'"></div>
+
+    <h2>Model values:</h2>
+    <pre>{{ vm.model | json }}</pre>
+</div>

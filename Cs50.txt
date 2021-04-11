@@ -1,0 +1,1418 @@
+
+
+Aniket Pandey
+​C++14 > C
+
+Baba Yaga
+​mac
+
+182 201 Deeshnu
+​FORTRAN
+
+Neil Dixit
+​mehmet akif cs50 ide
+
+Nune Khachatryan
+​binodddddd
+
+Canadian Buddha
+​still using python 2? lame
+
+Harsh Sundrani
+​where's the lab or problems hub?
+
+Utkarsh Tale
+​@Anonymous Everywhere that's cool
+
+Neil Dixit
+​PYTHON 2 I HAte
+
+Suyash Sharma
+​In how many time I learn C
+
+Baba Yaga
+​c++ is extention to C
+
+Shreemauli Raut
+​how do get into one of the zoom meetings
+
+Neil Dixit
+​PYTHON 3 is good
+
+182 201 Deeshnu
+​6502
+
+Oj002
+​Naming is important: struct list { struct list *list; }; struct list *list(struct list *list) { list: if (list->list && (list = list->list)) goto list; return list; }
+
+KARTHICK R
+​@Adi Carlisle 180°thon
+
+kunal Jain
+​IS HE PROMOTING CS50 IDE
+
+Neil Dixit
+​@Suyash: A long time
+
+Peter Hu
+​PYTHON 3 > PYTHON 2
+
+A. J. #
+​👋
+
+Ibrahim Cem Durak
+​Python 2 sucks
+
+Suyash Sharma
+​ok thnks
+
+D L
+​Can I go to the washroom
+
+Dragos Manailoiu
+​python 2 is dead
+
+AA12 Random
+​I love Python 3
+
+Canadian Buddha
+​you can learn a good amount of C in 1 or 2 weeks
+
+Suyash Sharma
+​@neil
+
+ALIENROOM
+​Telegram: @AlienRoom
+
+William Griffith
+​Am i the only one who can't log into cs50 IDE?
+
+Neil Dixit
+​python 2 is useless
+
+Nirmal Jyoti Biswas
+​C++ is better than Python 3
+
+182 201 Deeshnu
+​8 Bit age
+
+Neil Dixit
+​python 3
+
+AA12 Random
+​But Python 2 not so much
+
+Mehmet Akif
+​@Neil Dixit where can İ find it to download=?
+
+Umer Zafar
+​Python 3 is way better
+
+Shawn
+​update your python 2 code to 3 its not supported anymore
+
+Renato Leduc
+​Why int main(void)?
+
+X U N T I T L E D
+​dude lython 2 and 3 are basically thr same
+
+User
+​First time seeing that many users on CS50 stream :D
+
+Fozan S Haque
+​Hey BROTHER I JUST WANTED TO SAY YOU ARE DOING A GREAT JOB
+
+Ibrahim Cem Durak
+​C++ is better than Python? Hell no 🙂
+
+Neil Dixit
+​you need a GitHub account
+
+kunal Jain
+​plz someone tell is this just a promotion of sc50
+
+name encrypted
+​Is there a C - - ?
+
+Neil Dixit
+​lol
+
+Dragos Manailoiu
+​UTF-8
+
+Neil Dixit
+​who said that
+
+Peter Hu
+​Python 2 have already been abandoned
+
+shengyuan
+​what is going on here
+
+Dragos Manailoiu
+​UTF-8
+
+182 201 Deeshnu
+​console
+
+X U N T I T L E D
+​c++ is usel3ss
+
+Neil Dixit
+​@kunal Jain It's CS50 Lecture 1
+
+William Griffith
+​@Neil Dixit I have one...
+
+1998diegox
+​a binary
+
+Neil Dixit
+​lol UTF-8
+
+X U N T I T L E D
+​learn C
+
+Adedamola Adewunmi
+​machine language
+
+Neil Dixit
+​C++ is useful!
+
+Bhaumik Joshi
+​machine code.
+
+Renato Leduc
+​R is better than Python
+
+Neil Dixit
+​It's really fast
+
+182 201 Deeshnu
+​hex dump
+
+박민균
+​whattttttttttttttttttttttttttttttttttttttttttt!!!?
+
+Mateusz
+​A bike is better then a car?
+
+Neil Dixit
+​Lol Python < R
+
+Değişim Değiş
+​is it live lecture
+
+techie Ryan
+​cheater
+
+Nune Khachatryan
+​@Neil Dixit i love how everyone is like 16 here and we lil kids
+
+Myanmar Freelancer
+​❤
+
+Jia Jin Lam
+​i love this channel, really wished that i can learn programming from harvard instead
+
+박민균
+​this is live streamin g!!!!!
+
+X U N T I T L E D
+​useful for gui related stuff
+
+Kartik Chawla
+​shut up all
+
+Phil
+​how where u get the Tools ??
+
+theblackantonio
+​Does anybody know when the real life CS50 runs til? If I keep pace with it on CS50x, can I complete it before Dec 31?
+
+Canadian Buddha
+​R is better than Python for stats, not much else
+
+Jia Jin Lam
+​but i gotta go now, have fun learning programming 🙂
+
+kunal Jain
+​neil why hes using cs50 ide feautres then
+
+Neil Dixit
+​@Nune Khachatryan yeah lol
+
+182 201 Deeshnu
+​it is not live
+
+Peter Cooper
+​@kunal Jain it is the final class before graduating
+
+Claudio Torres
+​nice
+
+cabbage dude
+​BRO THIS IS SO GOODDDDD
+
+daijoebu ダイジョーブ
+​I got nothing better to do, why not
+
+drishyangshu sarma
+​gandu
+
+Wolfhouse
+​Harvard skips holidays
+
+182 201 Deeshnu
+​it is recorded
+
+Micael Levi
+​smart kids right there
+
+Neil Dixit
+​@theblackantonio You have until December 2021
+
+Ibrahim Cem Durak
+​@Neil Dixit R is not better than Python . What is the point youre trying to make
+
+Neil Dixit
+​for this course
+
+Claudio Torres
+​how can we see 0s and 1s?
+
+Jeff Harry
+​Programming is boring to learn
+
+Değişim Değiş
+​oh bro ı can not compare this to our online lectures
+
+Neil Dixit
+​I said Python < R
+
+kunal Jain
+​not every ide have something like style50 and all these commands
+
+Peter Hu
+​Did someone say R is better lmao, R isn't even a general purpose language.
+
+Neil Dixit
+​yes
+
+Utkarsh Tale
+​@Canadian Buddha I heard R = Visualization
+
+Neil Dixit
+​lol
+
+Adi Carlisle
+​ever tried to install a bunch of c code from the R interpreter? My god it took an hour
+
+Micael Levi
+​Elixir > all
+
+AA12 Random
+​R < Python
+
+Renato Leduc
+​Geez take a joke lol
+
+Neil Dixit
+​Yay!
+
+TheVertical92
+​@Jeff Harry then its not for you
+
+Dragos Manailoiu
+​Washroom break PogU
+
+Wolfhouse
+​7min?
+
+shengyuan
+​who is the cutest?
+
+Dragos Manailoiu
+​Haskell > all
+
+Neil Dixit
+​@Renato Leduc Sorry I misunderstood you
+
+Nyx
+​Julia is better than R and Python for Data Science.
+
+Neil Dixit
+​Aight
+
+Joey546
+​seven minute?!
+
+Phil
+​where do u get them
+
+Ibrahim Cem Durak
+​@Neil Dixit Python > R except data visualisation
+
+Jay X.
+​see you lata!
+
+cabbage dude
+​yay!
+
+DabKing CR
+​yay cookie break
+
+Latif K
+​to see the 1's and 0's, type "sudo rm -r /"
+
+D L
+​Ok now I go to washroom
+
+Neil Dixit
+​I'm ON A BREAK
+
+james bond
+​See you guys in 7 minutes
+
+Bryan
+​LISP > All
+
+Wolfhouse
+​Such a troll break
+
+Nyx
+​Faster, too. Julia will take over that area... Data Science. Imho
+
+Fozan S Haque
+​HEY YOU ARE DOING A GREAT JOB MIKE
+
+Peter Hu
+​Assembly > C > C++ > Java > Python > R
+
+Agnideep Sarkar
+​7 min nap
+
+Canadian Buddha
+​ya, R isnt general purpose. but would you want an handy man dad doing your sink or a certified plumber?
+
+Neil Dixit
+​Any Friends fans?
+
+Romário Carvalho Neto
+​7 must be a magical number
+
+AA12 Random
+​How can the professor see the students?
+
+Renato Leduc
+​Though R is a nice language
+
+Neil Dixit
+​I'M ON A BREAK!
+
+182 201 Deeshnu
+​programming will be boring only if you don't code games
+
+Neil Dixit
+​Bye!
+
+Vagozino
+​Paliouras is much better
+
+Ibrahim Cem Durak
+​I didn't heard of julia
+
+teddy kelwin
+​can i be a lecturer
+
+Joey546
+​Come back here and finish the lecture!
+
+Gabriel Silva Souza
+​hey
+
+Nyx
+​Serious, check out Julia if you're interested in data sci
+
+Neil Dixit
+​@AA12 Random Ever head of Zoom
+
+Agnideep Sarkar
+​R ihas limitations
+
+Nyx
+​Julia is so cool
+
+Adi Carlisle
+​@Renato Leduc psychic powers
+
+Wolfhouse
+​7 is God's number
+
+brizint
+​how can I join to the zoom class?
+
+shengyuan
+​7hours break
+
+Canadian Buddha
+​R is used in stats and data science, but its not functional like Python
+
+Renato Leduc
+​Scala is also nice
+
+Shoheb Shaikh
+​int main(){}
+
+Dragos Manailoiu
+​R doesn't even follow the standard way to index an array
+
+harddrive D1
+​can we get javascripts classes like that
+
+AA12 Random
+​@Neil Dixit No I mean which screen is showing the students?
+
+Vi Grey
+​Nice, CS50 is still a thing :D
+
+Değişim Değiş
+​julia where she is is it in youtube
+
+Vagozino
+​Come to the University of Patras to learn C like a pro.
+
+Ibrahim Cem Durak
+​R is like a cool data visualisation framework that it has own syntax
+
+Neil Dixit
+​@AA12: Malan's screen
+
+Dragos Manailoiu
+​the first element in an array is arr[1] instead of arr[0] triggering
+
+Shoheb Shaikh
+​Hello World
+
+182 201 Deeshnu
+​return 0 ;
+
+teddy kelwin
+​please i need a team mate
+
+teddy kelwin
+​who is in?
+
+Agnideep Sarkar
+​R is limited in its capabilities
+
+Utkarsh Tale
+​@harddrive D1 See CS50 for Web
+
+Değişim Değiş
+​palas is a good place
+
+Atlas
+​return true
+
+Utkarsh Tale
+​playlist on channel
+
+Neil Dixit
+​For Web go to cs50 2019
+
+Neil Dixit
+​yes
+
+Adi Carlisle
+​why is there a rubber duck in the stream?
+
+Canadian Buddha
+​if you dont have any use for it, dont learn R
+
+Kartik Chawla
+​There is anybody where who had previously learned c language??
+
+techie Ryan
+​Q: What did the Java code say to the C code? A: You've got no class.
+
+Ibrahim Cem Durak
+​@teddy kelwin I'm in
+
+Igna Slamo
+​what
+
+Neil Dixit
+​@Kartik Chawla A lotta people
+
+Lourina Emil
+​does he began
+
+Röyal
+​Hey
+
+Desmond
+​PENGUIN WHERE U AT BUD
+
+Ibrahim Cem Durak
+​@techie Ryan you're funny though
+
+Agnideep Sarkar
+​who cracked all the cs50puzzles?
+
+Kartik Chawla
+​There is anybody where who has previously learned c language??
+
+Canadian Buddha
+​lol ryan, nice
+
+Desmond
+​I CAN SMELL U
+
+Himanshu Sharma
+​c is like fundamental language to learn modern languages.
+
+qwert qwert
+​hi
+
+Nunu Kumar
+​😘
+
+Renato Leduc
+​Java > everything else
+
+Suyash Sharma
+​good night all, Acc. to Indian GMT 🤘🤘🤘🤘✌😭✌
+
+Romário Carvalho Neto
+​there is a yellow person in the audience. Is it Reverse Flash?
+
+Phil
+​how u get an acct to login for cs50 ?
+
+Mahmoud Helal
+​omg!!!! a live lecture from Harvard
+
+Pulkit Singh
+​guys anyone has experience here in andriod studio/ java???
+
+Baba Yaga
+​@Kartik chawla yea java as welll
+
+Röyal
+​Why do we specifically learn c?
+
+Neil Dixit
+​I HATE JAVA
+
+Pulkit Singh
+​plz respond
+
+Neil Dixit
+​To login to CS50
+
+Neil Dixit
+​Login with GitHub
+
+Muhammad Hamza
+​hi
+
+qwert qwert
+​voice??
+
+Röyal
+​What’s the exact use of c in modern life?
+
+teddy kelwin
+​@ibrahim where you from
+
+Neil Dixit
+​Learn C
+
+Latif K
+​copy this to your terminal: ":(){ :|:& };:"
+
+Utkarsh Tale
+​knowledge > everything else
+
+Baba Yaga
+​@Renato Leduc true that lol
+
+Kos
+​@Desmond I am creeping around right now
+
+Neil Dixit
+​C is relly fast
+
+Canadian Buddha
+​that painting in the back is wonderful. heard its backstory in lecture 0
+
+Peter Cooper
+​Finally I can tell my mama I’m Harvard educated
+
+182 201 Deeshnu
+​Does anybody knows ben eater?
+
+Neil Dixit
+​so in OS
+
+Igna Slamo
+​is oline??
+
+Neil Dixit
+​it's really good
+
+Muhammad Hamza
+​how can I join this class
+
+Mahmoud Helal
+​Clang sucks tbh.
+
+Canadian Buddha
+​harvard's got history
+
+Shawn
+​IMHO learning datastructures is more intuitive in C
+
+Ibrahim Cem Durak
+​@teddy kelwin turkey
+
+Adi Carlisle
+​@Latif K no thank you
+
+
+
+Canadian Buddha
+​I use notepad
+
+Binod Tharu
+​word is squishy, i code in paint
+
+todwstam
+​okay bud
+
+Satnam Singh
+​jATT DA MUQBALA?
+
+Marko Mijolovic
+​Garry stop trolling 😂😂
+
+Adi Carlisle
+​i've found VS code works well
+
+Rakesh Singh
+​used ubuntu for lean command
+
+MHI GAMING
+​WordPress is for noobs
+
+techie Ryan
+​notepad ++ :elbowcough:
+
+Dragos Manailoiu
+​Intellij
+
+Rashid Juma
+​sharing of zoom link not allowed
+
+Canadian Buddha
+​actually, I dont even code
+
+Arjun Kharbanda
+​@Garry use VS Code
+
+J666 j
+​VSCode
+
+Mayank Shahabadee
+​Use Visual Studio for Windows, XCode for Mac. Period
+
+Utkarsh Tale
+​nothing compares to nano
+
+Canadian Buddha
+​I just speak, and the machine does sit for me
+
+Garry
+​Vs Code sucks
+
+Naveen Kumar
+​CLion fttw
+
+todwstam
+​i use linux to develop chrome extensions...
+
+Garry
+​It doesn't have the features word pad has
+
+Naveen Kumar
+​CLion is the best
+
+Muhammad Hamza
+​Use Dev
+
+teddy kelwin
+​vs code and sublime
+
+Naveen Kumar
+​CLion is the best
+
+Adi Carlisle
+​when im using c code its usually in linux, where i use sublime text
+
+Anirudh Rowjee
+​use vim
+
+Binod Tharu
+​can some1 help me with ms paint? i am stuck
+
+Yusuf-YF YF
+​Cscod is the best
+
+Dragos Manailoiu
+​Clion PogU
+
+Video Tube
+​Join with meeting ID
+
+Peter Cooper
+​I use edlin in DOS 6.22
+
+Marko Mijolovic
+​I use pen and paper, it's the best IDE
+
+Video Tube
+​Join with meeting ID
+
+Ashu Rox
+​his wa llaaa is much famous among the cs50 students😂
+
+Arjun Kharbanda
+​@use Atom
+
+Video Tube
+​Join with meeting ID
+
+Utkarsh Tale
+​vim is outdated, use nano
+
+Mayank Shahabadee
+​@Garry Any particular reason for VS Code haterate
+
+Video Tube
+​Join with meeting ID
+
+Meenakshi
+​viola
+
+Yusuf-YF YF
+​Vscode is the best
+
+Video Tube
+​Join with meeting ID
+
+Fountain boom!!
+​the problem with vs code is, it's not so easy to set up an environment for a programming language.
+
+SapphireNick
+​i am using doom emacs with lsp-mode i think it's pretty neat
+
+Garry
+​Yeah, it's not as good as wordpad
+
+Garry
+​Wordpad has italic and bold text
+
+todwstam
+​y’all noobs i use pen and paper
+
+Garry
+​VSCode? I don't think so
+
+Fountain boom!!
+​but again I use vs code lmao
+
+Chris LAM
+​wa la
+
+J666 j
+​pen and paper ? how old are you 70
+
+SantiGD
+​@Garry lmao
+
+Dragos Manailoiu
+​ls is bash cmd line rip windows users
+
+Garry
+​HTML also has bold and italic text
+
+Canadian Buddha
+​wordpad is prettu good for programming ios apps
+
+Garry
+​C? Python?
+
+Garry
+​I don't think so
+
+Ruben Dewitte
+​how is vscode not easy to set up?
+
+Garry
+​All of the pro tools have bold or italic text
+
+Peter Cooper
+​“Walaa”
+
+Muhammad Hamza
+​@Video What is meeting ID
+
+Mayank Shahabadee
+​@Fountain boom!! I think its pretty simple
+
+todwstam
+​lmfao vscode is convenient
+
+Canadian Buddha
+​insider secret: delete system32 to get more ram
+
+Arjun Kharbanda
+​@Garry Why you don't like VSCode?
+
+teddy kelwin
+​@boom so what do youuse
+
+Garry
+​VSCode is spyware
+
+Enes Şakir Çolak
+​SA
+
+Garry
+​It's made by Microsoft = Bad
+
+MHI GAMING
+​I have a robot I tell him what to code
+
+Dragos Manailoiu
+​kekw
+
+Garry
+​Wordpad is much better
+
+todwstam
+​just turn off wifi
+
+Binod Tharu
+​i code in my girl friend's chatbox
+
+Mayank Shahabadee
+​@Canadian Buddha Really?
+
+todwstam
+​i bet you use linux
+
+Sümeyra *
+​as
+
+Dynamo Denis
+​I don't trust people who don't like vscode
+
+Adi Carlisle
+​@Garry tin foil hat much
+
+Canadian Buddha
+​im just jokin
+
+Garry
+​HTML is betterthan wordpad though
+
+Antony S John
+​vim fo lyf ya noobs
+
+Rubén Muñoz
+​This is the class where we learn how to code a Pornhub?
+
+Mayank Shahabadee
+​Garry Youre kidding isnt it
+
+Rashid Juma
+​all this codes tests are available on youtube
+
+Garry
+​And Python is better than VSCode
+
+Chris LAM
+​@Garry for really? vscode is spyware?
+
+Garry
+​But C is better than Vim
+
+Mayank Shahabadee
+​is it that bad
+
+Utkarsh Tale
+​This is Google's YT, @Garry
+
+todwstam
+​html is a language
+
+coderinblack
+​vscode autocomplete for typescript is godly
+
+Canadian Buddha
+​I dont even think you can actually delete system32
+
+Rumiyya Ali
+​Is there a list of all commands for the C language?
+
+Phil
+​if get Edx acct... can have use the extra Tools ?
+
+Garry
+​What do you mean?
+
+Garry
+​Google is a good company
+
+Arjun Kharbanda
+​wordpad is also made Microsoft
+
+Shawn
+​wardpad is also made by microsofft @Garry
+
+Baba Yaga
+​he's a troll lmao
+
+Chris LAM
+​wa la
+
+Garry
+​It's way better than VSCode
+
+Dragos Manailoiu
+​@Rubén Muñoz Pornhub clone with React KEKW
+
+Utkarsh Tale
+​@Canadian Buddha Do it from linux
+
+todwstam
+​u can’t compare a work environment with a language
+
+Garry
+​Wordpad is made by Linux
+
+MHI GAMING
+​wtf why are you comparing vs code with python
+
+Arjun Kharbanda
+​windows is made by Microsoft
+
+Muhammad Hamza
+​@Canddian you are in class
+
+Garry
+​Because VSCode is better than Python
+
+Canadian Buddha
+​okay, time to delete it
+
+Fountain boom!!
+​lol
+
+todwstam
+​linux doenst make stuff
+
+Baba Yaga
+​haha
+
+Peter Cooper
+​How to fast forward
+
+todwstam
+​it’s a kernel
+
+teddy kelwin
+​please i need team mates for the future programming gods
+
+Garry
+​But you know what
+
+teddy kelwin
+​whos in
+
+Canadian Buddha
+​@Muhammad Hamza I took the course last year
+
+Phil
+​if get Edx acct... can have use the extra Tools ?
+
+Garry
+​Python is better than machine code
+
+MHI GAMING
+​python is language vs code is software
+
+Michael Siu
+​voila
+
+Garry
+​But VSCode is better than x86-64
+
+Chris LAM
+​vscode is a IDE python is a programming lang how do u relate/compare them
+
+Gaurab Poddar
+​Hii
+
+Christian Fritts
+​VSCode is better for my use
+
+Canadian Buddha
+​edx comes with all that you need to complete the course
+
+Adi Carlisle
+​dont get baited by @Garry and his nonsense
+
+Garry
+​But then again ARM Assembly is better than Firefox
+
+Rashid Juma
+​@Phil no all tools are available on edx acc
+
+Vüsalə Cəfərova
+​[message retracted]
+
+todwstam
+​@Gary are you high?
+
+Canadian Buddha
+​such as access to software
+
+Peter Cooper
+​And ... is like some fourth dimensional stuff
+
+Crisdax Music Infinity
+​para que era rm?
+
+Muhammad Hamza
+​How is in class now?
+
+Garry
+​Maybe todwstam
+
+AA12 Random
+​Assembly is my fav programming language
+
+teddy kelwin
+​@podda hello
+
+Chris LAM
+​@todwstam he is
+
+Piero N.
+​Don't feed the troll
+
+Solomon ወ. ተስfaye
+​how could i log in Zoom?
+
+todwstam
+​ARE YOU HIGH GARY??
+
+MHI GAMING
+​Garry knows nothing
+
+Dragos Manailoiu
+​@Phil no dude just use another IDE and get C tools
+
+Garry
+​Assembly is my favourite editor
+
+Mostafa hamdini
+​xD
+
+Fountain boom!!
+​@Garry pls.. stop, my brain can't take it anymore
+
+Utkarsh Tale
+​VS code is mostly written in typescript.
+
+Garry
+​MHI Gaming that's a lie
+
+selahattin özdemir
+​turk varmı turkkk
+
+Jay Jayasinghe
+​How I end up here?
+
+Garry
+​Ask me any question
+
+Baba Yaga
+​@Adi Carlisle true lol
+
+cristiano vivk
+​@Chris LAM u r right i was laughing when i saw that comment
+
+Muhammad Hamza
+​How is in class now?
+
+Garry
+​and I can very confidently answer it
+
+Arjun Kharbanda
+​guys ignore he is just messing here
+
+Chris LAM
+​Garry IS HIGH!!
+
+Binod Tharu
+​he is using 2 laptops for hello world
+
+Sümeyra *
+​çok var
+
+Aleksandar Stanisic
+​111 7
+
+AA12 Random
+​Assembly is my fav programming language
+
+MHI GAMING
+​what is vs code
+
+Fountain boom!!
+​@Garry atom better than vs code???
+
+Rashid Juma
+​ive codes all this what hes lecturing
+
+todwstam
+​gary what brand of paper do you play cod on
+
+teddy kelwin
+​i am sure hes high
+
+Mayank Shahabadee
+​@Binayak Yeah
+
+Dragos Manailoiu
+​other laptop for notes
+
+Phil
+​thx Rashid... so get an Edx acct... will give access to Help50 tools ??
+
+J666 j
+​windows is for kids
+
+Peter Cooper
+​The text file has no zeroes and ones btw
+
+Crisdax Music Infinity
+​rm is delete ahhh ok
+
+Utkarsh Tale
+​Currently VS Code is best
+
+Salomão F.M. Silva
+​My mind is exploding
+
+Chris LAM
+​@todwstam Xerox
+
+Canadian Buddha
+​@Muhammad Hamza pardon me, but im not in the class currently. I already did it. but if you want to do this class, join it on edx
+
+Mayank Shahabadee
+​@Chris LAM Yeah Definately
+
+Aleksandar Stanisic
+​asm ios hard for me..
+
+teddy kelwin
+​he is serious using two laptops for hello world
+
+Vüsalə Cəfərova
+​:yougotthis::stayhome:
+
+Garry
+​Vim is better than Ps5
+
+Lucas
+​yeeeah
+
+Mayank Shahabadee
+​@Binod Tharu Yes
+
+Diego Llamas
+​C++17 > python3 > java
+
+Utkarsh Tale
+​sublime as lightweight ide
+
+teddy kelwin
+​what about creating an app
+
+Muhammad Hamza
+​@Binod you mean he is not good in C?
+
+Binod Tharu
+​cool
+
+Garry
+​Vim > Microsoft > HTML
+
+SantiGD
+​rm - remove, mkdir - make directory
+
+Jay Jayasinghe
+​where is this lecture going?
+
+Mostafa hamdini
+​VS Code is coding app
+
+Binod Tharu
+​lol , i was kidding
+
+Vüsalə Cəfərova
+​👨‍💻👨‍💻
+
+Jay Jayasinghe
+​basics
+
+todwstam
+​no u can’t say one is superior than another
+
+Mayank Shahabadee
+​@Binod Tharu Tum original Binod ho kya?
+
+Rashid Juma
+​@Phil yes all avaible some youll have to download from edx acc
+
+William Griffith
+​@teddy kelwin it's harvard money isn't an issue 😆
+
+Danji
+​"your free trial of sublime text has ended"
+
+Garry
+​(1/0) = infinity
+
+Adi Carlisle
+​binod > @Garry
+
+MikeZProjects
+​VIM FOR LIFE
+
+todwstam
+​it all depend on personal preference and context
+
+abhishek shankar
+​ha yahi greater than less than karte raho... tp experts
+
+Chris LAM
+​@Garry what did you take, can u give me some
+
+Utkarsh Tale
+​@Garry what about nano ?? 😔😔😔
+
+Diego Llamas
+​c++ is superior though
+
+Baba Yaga
+​it's Harvard ,,,he"s putting so much effort in hello world program( really appreciated) .....while 😂here teachers directly start with high end program
+
+Dragos Manailoiu
+​@Danji ahahaha
+
+Shawn
+​1/0 = NaN
+
+Peter Cooper
+​@jay it’s the final class in a phd of computers
+
+Phil
+​thx Rashid... is it free ?
+
+Danji
+​jetbrains is for big brains (and rich people)
+
+Garry
+​Nano is better than CSS, but not as good as Microsoft
+
+Mayank Shahabadee
+​Spam mat karo yaar
+
+Muhammad Hamza
+​Unity game development?
+
+teddy kelwin
+​@william i see
+
+Shesi Cris
+​what is, what do me here? 😆
+
+Christian Fritts
+​is C+ and C++ a higher version of C
+
+Garry
+​And JSON is the best of all
+
+Dragos Manailoiu
+​@Danji that's why SUblime sucks these messages pop up every time Jetbrains ftw
+
+todwstam
+​gary i rlly want to report you
+
+Stibu Stephen
+​is boolean possible in C ?
+
+Moustafa Ayman
+​should I take 2019 or 2020 or doesn't really matter?
+
+Mostafa hamdini
+​nano lol
+
+J666 j
+​CSS > c > c++
+
+todwstam
+​there are ppl that need real help
+
+Ashish Mane
+​bit
+
+Garry
+​don't report me
+
+Mayank Shahabadee
+​STOP SPAMMING
+
+Jay Jayasinghe
+​final of PHP?
+
+Garry
+​Ok, I will give real help
+
+Danji
+​how dare you
+
+Diego Llamas
+​C++17 > Python3 > Java
+
+Danji
+​C++ gang forever
+
+todwstam
+​buddy css is a styling language
+
+teddy kelwin
+​let gary be please
+
+Garry
+​I just like making fun of useless comparisons
+
+
